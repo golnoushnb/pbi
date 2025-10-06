@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /gene/DATA</title>
+ </head>
+ <body>
+<h1>Index of /gene/DATA</h1>
+<pre>Name                            Last modified      Size  <hr><a href="/gene/">Parent Directory</a>                                     -   
+<a href="ARCHIVE/">ARCHIVE/</a>                        2020-01-02 15:38    -   
+<a href="ASN_BINARY/">ASN_BINARY/</a>                     2025-09-29 00:58    -   
+<a href="GENE_INFO/">GENE_INFO/</a>                      2025-09-29 00:58    -   
+<a href="expression/">expression/</a>                     2017-03-06 17:55    -   
+<a href="special_requests/">special_requests/</a>               2025-02-28 11:35    -   
+<a href="README">README</a>                          2025-01-02 08:35   58K  
+<a href="README_ensembl">README_ensembl</a>                  2025-09-23 09:52   66K  
+<a href="gene2accession.gz">gene2accession.gz</a>               2025-09-29 00:44  3.7G  
+<a href="gene2ensembl.gz">gene2ensembl.gz</a>                 2025-09-29 00:45  269M  
+<a href="gene2go.gz">gene2go.gz</a>                      2025-09-29 00:46  1.2G  
+<a href="gene2pubmed.gz">gene2pubmed.gz</a>                  2025-09-29 00:47  224M  
+<a href="gene2refseq.gz">gene2refseq.gz</a>                  2025-09-29 00:50  1.9G  
+<a href="gene_group.gz">gene_group.gz</a>                   2025-09-29 00:50  289K  
+<a href="gene_history.gz">gene_history.gz</a>                 2025-09-29 00:50  147M  
+<a href="gene_info.gz">gene_info.gz</a>                    2025-09-29 00:52  1.3G  
+<a href="gene_neighbors.gz">gene_neighbors.gz</a>               2025-09-29 00:54  1.7G  
+<a href="gene_orthologs.gz">gene_orthologs.gz</a>               2025-09-29 00:54  106M  
+<a href="gene_refseq_uniprotkb_collab.gz">gene_refseq_uniprotkb_collab.gz</a> 2025-09-18 05:18  1.1G  
+<a href="gene_summary.gz">gene_summary.gz</a>                 2025-09-29 00:54   20M  
+<a href="go_process.dtd">go_process.dtd</a>                  2023-09-11 09:48  1.4K  
+<a href="go_process.xml">go_process.xml</a>                  2025-06-26 15:54  8.7K  
+<a href="mim2gene_medgen">mim2gene_medgen</a>                 2025-09-29 05:05  913K  
+<a href="stopwords_gene">stopwords_gene</a>                  2011-06-09 07:58  737   
+<hr></pre>
+<a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html">HHS Vulnerability Disclosure</a>
